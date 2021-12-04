@@ -1,0 +1,8 @@
+<bug_report>
+  <title>name title </title>
+  <steps to reproduction>Step1, step2, step3 </steps to reroduction>
+  <expected result>the result we need </expected result>
+  <factual result>the result of which must be </factual result>
+  <priority factor>Low, Medium, High </priority factor>
+  <severity factor>Trivial, Minor, Major, Critical, Blocker </severity factor>
+</bug_report>
