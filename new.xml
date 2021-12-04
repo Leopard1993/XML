@@ -1,1 +1,8 @@
-
+<myself>
+	<field name="name">Leonid </field>
+	<field last name="last name">Bakurin </field>
+	<field patronimic name="patronimic name">Vladimirovich </field>
+	<field age="age">28 </field>
+	<fieldnumber of pets="number of pets">I have got the dog and her is naame Gulya </field>
+	<field future desired salary="future desired salary">later 2 years 2000$ </field>
+</myself>	
