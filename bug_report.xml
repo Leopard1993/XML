@@ -1,22 +1,22 @@
 <bug_report>
-  <title>name_title </title>
+  <title>name_title</title>
   <steps_to_reproduction>
-    <number_step>Step1 </number_step>
-    <number_step>Step2 </number_step>
-    <number_step>Step3 </number_step>
+    <number_step>Step1</number_step>
+    <number_step>Step2</number_step>
+    <number_step>Step3</number_step>
   </steps_to_reroduction>
-  <expected_result>the_result_we_need </expected_result>
-  <factual_result>the_result_of_which_must_be </factual_result>
+  <expected_result>the_result_we_need</expected_result>
+  <factual_result>the_result_of_which_must_be</factual_result>
   <priority_factor>
-    <priority_factor1>Low </priority_factor1>
-    <priority_factor2>Medium </priority_factor2>
-    <priority_factor3>High </priority_factor3>
+    <priority_factor1>Low</priority_factor1>
+    <priority_factor2>Medium</priority_factor2>
+    <priority_factor3>High</priority_factor3>
   </priority_factor>
   <severity_factor>
-    <severity_factor1>Trivial </severity_factor1>
-    <severity_factor2>Minor </severity_factor2>
-    <severity_factor3>Major </severity_factor3>
-    <severity_factor4>Critical </severity_factor4>
-    <severity_factor5>Blocker </severity_factor5>
+    <severity_factor1>Trivial</severity_factor1>
+    <severity_factor2>Minor</severity_factor2>
+    <severity_factor3>Major</severity_factor3>
+    <severity_factor4>Critical</severity_factor4>
+    <severity_factor5>Blocker</severity_factor5>
   <severity_factor>
 </bug_report>
