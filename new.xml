@@ -1,8 +1,8 @@
 <myself>
-	<field name="name">Leonid </field>
-	<field last name="last name">Bakurin </field>
-	<field patronimic name="patronimic name">Vladimirovich </field>
-	<field age="age">28 </field>
-	<fieldnumber of pets="number of pets">I have got the dog and her is naame Gulya </field>
-	<field future desired salary="future desired salary">later 2 years 2000$ </field>
+	<name>Leonid </name>
+	<last_name>Bakurin <last_name>
+	<patronimic_name>Vladimirovich </patronimic_name>
+	<age>28 </age>
+	<number_of_pets>I_have_got_the_dog_and_her_is_name_Gulya </number_of_pets>
+	<future_desired_salary>later_2_years_2000$ </future_desired_salary>
 </myself>	
