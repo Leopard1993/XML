@@ -1,12 +1,12 @@
 <myintresting>
-	<my_favorite_films>1+1 </my_favorite_films>
-	<my_favorite_serial>Sharp visors </my_favorite_serial>
-	<my_fovorite_food>Pasta </my_favorite_food>
-	<my_favorite_season>spring </my_favorite_season>
+	<my_favorite_films>1+1</my_favorite_films>
+	<my_favorite_serial>Sharp_visors</my_favorite_serial>
+	<my_fovorite_food>Pasta</my_favorite_food>
+	<my_favorite_season>spring</my_favorite_season>
 	<coutries_to_visit>
-		<countries1>Norway </countries1>
-		<countries2>Bali </counries2>
-		<countries3>USA </countries3>
-		<countries4>Great_Britan </countries4>
+		<countries1>Norway</countries1>
+		<countries2>Bali</counries2>
+		<countries3>USA</countries3>
+		<countries4>Great_Britan</countries4>
 	</countries_to_visit>
 </myintresting>
